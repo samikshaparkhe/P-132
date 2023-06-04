@@ -1,0 +1,46 @@
+body
+{
+ background-size: cover;
+ background-position: center;
+}
+#head
+{
+    width: 100%;
+    margin: 0%;
+    font-size: 30px;
+}
+.bed_room
+{
+    font-size: 20px;
+    width: 30%;
+    margin: 0px;
+    color: black;
+}
+.bottles
+{
+    font-size: 20px;
+    width: 30%;
+    margin: 0px;
+    color: black;
+}
+.tv_ac
+{
+    font-size: 20px;
+    width: 30%;
+    margin: 0px;
+    color: black;
+}
+.laptop_mobile
+{
+    font-size: 20px;
+    width: 30%;
+    margin: 0px;
+    color: black;
+}
+.cars
+{
+    font-size: 20px;
+    width: 30%;
+    margin: 0px;
+    color: black;
+}
